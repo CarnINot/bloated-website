@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+    color: gainsboro;
+ /*    background: url(earthb_back1.gif);
+*/
+    background: url(stars2bg.gif);
+    animation: moveclouds 15s linear infinite;
+}
+div {
+	background-color: black;
+        border: 10px solid; /* keep like this for safari, chrome, firefox*/
+	border-image: url(earthb_box.png) 10;
+	max-width: 800px;
+	margin: auto;
+	margin-top: 30px;
+	border-radius: 10px;
+	padding: 10px;
+}
+.article-content{
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+}
+h1{
+    color: cyan;
+}
+
+#the-void{
+    font-size: 300px;
+    margin: 20px 0px;
+    background: url(stars2bg.gif);
+    animation: moveclouds 15s linear infinite;
+}
+.interesting h2, em{
+    color: crimson;
+}
+
+a{
+  color: CornflowerBlue;
+}
+a:visited{
+  color: SlateBlue;
+}
+a:hover{
+  color: White;
+}
+
+@keyframes moveclouds {
+  from {
+    background-position:  0 0;
+  }
+
+  to {
+    background-position: 200px -200px;
+  }
+}
+
+/* my attempt at mobile CSS */
+
