@@ -1,7 +1,7 @@
 # bloated-website
 The worst javascript website ever
 
-I MADE THIS VERY QUICKLY FOR A BLOG POST. I HAVE NO SERIOUS PRIOR KNOWLEDGE OF REACT OR NODEJS. DON'T USE THIS WITHOUT HEAVY MODIFICATIONS.
+I MADE THIS VERY QUICKLY FOR A [BLOG POST](https://cool-website.xyz/blog/how-slow-is-the-modern-web.html). I HAVE NO SERIOUS PRIOR KNOWLEDGE OF REACT OR NODEJS. DON'T USE THIS WITHOUT HEAVY MODIFICATIONS.
 
 Here is a short explanation of how the back end and front end work.
 
